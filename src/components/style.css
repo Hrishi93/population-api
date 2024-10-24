@@ -1,0 +1,13 @@
+
+.output_div {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #290b0b;
+    border-radius: 4px;
+    width: 50%;
+    background-color: #8dd786;
+  }
+  
+  .output_div p {
+    margin: 5px 0;
+  }
